@@ -1,0 +1,19 @@
+.about{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+}
+
+.aboutHeader{
+    margin: 0;
+}
+.increment{
+    width: 100px;
+    height: 30px;
+}
+
+.achiv{
+    width: auto;
+    height: auto;
+    background-color: rgb(200, 145, 229);
+}
